@@ -83,7 +83,7 @@
             android:textColor="@color/white"
             android:textSize="15dp" />
     </LinearLayout>
-
+//chale
     <ProgressBar
         android:id="@+id/progressBar"
         android:layout_width="30dp"
@@ -92,3 +92,4 @@
         android:layout_marginBottom="20dp"
         android:visibility="gone" />
 </android.support.design.widget.CoordinatorLayout>
+
